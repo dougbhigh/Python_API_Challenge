@@ -14,4 +14,3 @@ Part 2 VacationPy
 ![alt text](https://github.com/dougbhigh/Python_API_Challenge/blob/master/WeatherPy/output_data/lat_vs_humid.png)
 ![alt text](https://github.com/dougbhigh/Python_API_Challenge/blob/master/WeatherPy/output_data/south_lat_vs_maxtemp.png)
 ![alt text](https://github.com/dougbhigh/Python_API_Challenge/blob/master/WeatherPy/output_data/Screenshot.png)
-
