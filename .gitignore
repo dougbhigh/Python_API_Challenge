@@ -80,7 +80,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
-config.*
+
 
 # pyenv
 .python-version
@@ -129,5 +129,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#API Keys
+# my stuff
 api_keys.*
+config.*
+.ipynb_checkpoints
