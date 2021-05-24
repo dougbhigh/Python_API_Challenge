@@ -14,6 +14,6 @@ Part 2 VacationPy
 WeatherPyLg
 - copy of WeatherPy with 15,000 initial points resulting in 2907 cities, 2699 of which had weather data (compared to 1500, 622, and 568 in original run).    
 
-![alt text](https://github.com/dougbhigh/Python_API_Challenge/blob/master/WeatherPy/output_data/lat_vs_humid.png)
-![alt text](https://github.com/dougbhigh/Python_API_Challenge/blob/master/WeatherPy/output_data/south_lat_vs_maxtemp.png)
-![alt text](https://github.com/dougbhigh/Python_API_Challenge/blob/master/WeatherPy/output_data/Screenshot.png)
+![alt text](https://github.com/dougbhigh/VacationWeather/blob/master/WeatherPy/output_data/lat_vs_humid.png)
+![alt text](https://github.com/dougbhigh/v/blob/master/WeatherPy/output_data/south_lat_vs_maxtemp.png)
+![alt text](https://github.com/dougbhigh/VacationWeather/blob/master/WeatherPy/output_data/Screenshot.png)
